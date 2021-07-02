@@ -5,8 +5,7 @@ date:   2021-07-02 15:01:35 +0300
 image:  '/images/02.jpg'
 tags:   [workflow, hobby, study]
 ---
-Lors de la réfléxion pour déployer son site ou un ensemble de site dans différents pays et donc à leur bon référencement à l'international, les clients pensent souvent à tort leur SEO International en se focalisant sur la langue qu'ils doivent renseigner pour le ou leurs sites. Ou bien ces derniers investissent là aussi à tort dans le développement de nombreux sites pensant bien faire.
-Hors pour construire une stratégie de SEO International une réfléxion plus approfondie et pourtant simple est à mener avant de se lancer.
+Lors de la réfléxion pour déployer son site ou un ensemble de site dans différents pays et donc à leur bon référencement à l'international, les clients pensent souvent à tort leur SEO International en se focalisant sur la langue qu'ils doivent renseigner pour le ou leurs sites. Ou bien ces derniers investissent là aussi à tort dans le développement de nombreux sites pensant bien faire. Bien que la réflexion et la mise en place d'une stratégie de référencement dans de nombreux pays est souvent difficile à appréhender, celle-ci nécessite toutefois  de coomprendre correctement les enjeux afin d'avoir une chance de répondre aux objectifs que l'on s'est fixé.
 
 ## Ne plus penser en terme de langue mais en terme de marchés à couvrir
 
@@ -14,19 +13,25 @@ Le SEO c'est du marketing et le SEO international ne déroge pas la règle. Les 
 
 ### Exemple : Le Luxembourg
 
+### Quelless sont mes cibles ?
+
+#### Je cible une langue au niveau mondial
+
+#### Je cible un pays/marché
+
 ## Dois-je choisir un nom de domaine, un sous-domaine ou un répertoire ?
 
 ### Exemple : Europapark
 
 ### Exemple :Une entreprise avec de nombreuses contraintes logistiques
 
-## Comment configurer correctement mon site pour mon marché ?
+## Comment configurer correctement mon site ?
 
 ### Le nom de domaine
 
-### La configuration de la search console
+### La search console
 
-### L'intégration ou non des hreflang
+### Les hreflang et attributs de langue
 
 ### La problématique du duplicate content
 
