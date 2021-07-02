@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Ozymedia
+title: Ozymedia, agence webmarketing & seo
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Jason Collins
 description: Clancy is a elegant portfolio theme for Jekyll.
@@ -25,7 +25,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Ozymedia, agence web spécialisée en seo.
+  hero__title: Ozymedia, agence webmarketing
   hero__description: I'm a freelance designer and photographer. For almost five years I have been working with clients from a variety of clients to create pieces that meet their goals. I invite you to navigate my portfolio to know a bit more about me and my work.
 
 
@@ -97,7 +97,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
+  email: hunckler.thomas@hotmail.fr # Add your email for contact form
   description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
 
 # NOTE
