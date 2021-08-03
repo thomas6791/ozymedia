@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Ozymedias
+title: Ozymedia
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Thomas Hunckler
 description: ""
@@ -25,8 +25,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Ozymedias, agence SEO & webmarketing
-  hero__description: Ozymedias, agence web spécialisée en SEO et dans le e-marketing, développe la visibilité et le trafic de ses clients en actionnant les leviers webmarketing les plus pertinents. Basée sur des études e-marketing, les stratégies digitales proposées ont pour but d’obtenir des résultats rapides et à forte valeur ajoutée pour chaque activité.
+  hero__title: Ozymedia, agence SEO & webmarketing
+  hero__description: Ozymedia, agence web spécialisée en SEO et dans le e-marketing, développe la visibilité et le trafic de ses clients en actionnant les leviers webmarketing les plus pertinents. Basée sur des études e-marketing, les stratégies digitales proposées ont pour but d’obtenir des résultats rapides et à forte valeur ajoutée pour chaque activité.
 
 
 #-------------------------------
